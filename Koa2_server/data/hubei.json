@@ -1,0 +1,182 @@
+[
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "荆门",
+        "provinces": "湖北",
+        "totalConfirm": "971",
+        "totalNowConfirm": "41",
+        "totalHeal": "889",
+        "totalDead": "41",
+        "todayConfirm": "0"
+    },
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "武汉",
+        "provinces": "湖北",
+        "totalConfirm": "50380",
+        "totalNowConfirm": "34",
+        "totalHeal": "46477",
+        "totalDead": "3869",
+        "todayConfirm": "0"
+    },
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "境外输入",
+        "provinces": "湖北",
+        "totalConfirm": "63",
+        "totalNowConfirm": "7",
+        "totalHeal": "56",
+        "totalDead": "0",
+        "todayConfirm": "0"
+    },
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "黄冈",
+        "provinces": "湖北",
+        "totalConfirm": "2912",
+        "totalNowConfirm": "3",
+        "totalHeal": "2784",
+        "totalDead": "125",
+        "todayConfirm": "0"
+    },
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "荆州",
+        "provinces": "湖北",
+        "totalConfirm": "1582",
+        "totalNowConfirm": "2",
+        "totalHeal": "1528",
+        "totalDead": "52",
+        "todayConfirm": "0"
+    },
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "鄂州",
+        "provinces": "湖北",
+        "totalConfirm": "1395",
+        "totalNowConfirm": "1",
+        "totalHeal": "1335",
+        "totalDead": "59",
+        "todayConfirm": "0"
+    },
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "仙桃",
+        "provinces": "湖北",
+        "totalConfirm": "575",
+        "totalNowConfirm": "0",
+        "totalHeal": "553",
+        "totalDead": "22",
+        "todayConfirm": "0"
+    },
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "十堰",
+        "provinces": "湖北",
+        "totalConfirm": "672",
+        "totalNowConfirm": "0",
+        "totalHeal": "664",
+        "totalDead": "8",
+        "todayConfirm": "0"
+    },
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "孝感",
+        "provinces": "湖北",
+        "totalConfirm": "3518",
+        "totalNowConfirm": "0",
+        "totalHeal": "3389",
+        "totalDead": "129",
+        "todayConfirm": "0"
+    },
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "宜昌",
+        "provinces": "湖北",
+        "totalConfirm": "931",
+        "totalNowConfirm": "0",
+        "totalHeal": "894",
+        "totalDead": "37",
+        "todayConfirm": "0"
+    },
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "襄阳",
+        "provinces": "湖北",
+        "totalConfirm": "1175",
+        "totalNowConfirm": "0",
+        "totalHeal": "1135",
+        "totalDead": "40",
+        "todayConfirm": "0"
+    },
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "天门",
+        "provinces": "湖北",
+        "totalConfirm": "496",
+        "totalNowConfirm": "0",
+        "totalHeal": "481",
+        "totalDead": "15",
+        "todayConfirm": "0"
+    },
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "潜江",
+        "provinces": "湖北",
+        "totalConfirm": "198",
+        "totalNowConfirm": "0",
+        "totalHeal": "189",
+        "totalDead": "9",
+        "todayConfirm": "0"
+    },
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "黄石",
+        "provinces": "湖北",
+        "totalConfirm": "1015",
+        "totalNowConfirm": "0",
+        "totalHeal": "976",
+        "totalDead": "39",
+        "todayConfirm": "0"
+    },
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "神农架",
+        "provinces": "湖北",
+        "totalConfirm": "11",
+        "totalNowConfirm": "0",
+        "totalHeal": "11",
+        "totalDead": "0",
+        "todayConfirm": "0"
+    },
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "随州",
+        "provinces": "湖北",
+        "totalConfirm": "1307",
+        "totalNowConfirm": "0",
+        "totalHeal": "1262",
+        "totalDead": "45",
+        "todayConfirm": "0"
+    },
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "咸宁",
+        "provinces": "湖北",
+        "totalConfirm": "836",
+        "totalNowConfirm": "0",
+        "totalHeal": "821",
+        "totalDead": "15",
+        "todayConfirm": "0"
+    },
+    {
+        "LastUpdateTime": "2021-08-26 11:17:41",
+        "uaName": "恩施州",
+        "provinces": "湖北",
+        "totalConfirm": "252",
+        "totalNowConfirm": "0",
+        "totalHeal": "245",
+        "totalDead": "7",
+        "todayConfirm": "0"
+    }
+]

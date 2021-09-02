@@ -1,0 +1,616 @@
+{
+    "RECORDS": [
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "台湾",
+            "totalConfirm": "15906",
+            "totalNowConfirm": "1529",
+            "totalHeal": "13550",
+            "totalDead": "827",
+            "todayConfirm": "9"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "江苏",
+            "totalConfirm": "1582",
+            "totalNowConfirm": "671",
+            "totalHeal": "911",
+            "totalDead": "0",
+            "todayConfirm": "3"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "云南",
+            "totalConfirm": "997",
+            "totalNowConfirm": "331",
+            "totalHeal": "664",
+            "totalDead": "2",
+            "todayConfirm": "8"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "河南",
+            "totalConfirm": "1521",
+            "totalNowConfirm": "175",
+            "totalHeal": "1324",
+            "totalDead": "22",
+            "todayConfirm": "2"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "上海",
+            "totalConfirm": "2416",
+            "totalNowConfirm": "103",
+            "totalHeal": "2306",
+            "totalDead": "7",
+            "todayConfirm": "2"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "湖南",
+            "totalConfirm": "1181",
+            "totalNowConfirm": "102",
+            "totalHeal": "1075",
+            "totalDead": "4",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "湖北",
+            "totalConfirm": "68286",
+            "totalNowConfirm": "93",
+            "totalHeal": "63681",
+            "totalDead": "4512",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "广东",
+            "totalConfirm": "2997",
+            "totalNowConfirm": "82",
+            "totalHeal": "2907",
+            "totalDead": "8",
+            "todayConfirm": "9"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "香港",
+            "totalConfirm": "12047",
+            "totalNowConfirm": "76",
+            "totalHeal": "11759",
+            "totalDead": "212",
+            "todayConfirm": "5"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "福建",
+            "totalConfirm": "779",
+            "totalNowConfirm": "46",
+            "totalHeal": "732",
+            "totalDead": "1",
+            "todayConfirm": "2"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "天津",
+            "totalConfirm": "457",
+            "totalNowConfirm": "40",
+            "totalHeal": "414",
+            "totalDead": "3",
+            "todayConfirm": "1"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "山东",
+            "totalConfirm": "923",
+            "totalNowConfirm": "39",
+            "totalHeal": "877",
+            "totalDead": "7",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "浙江",
+            "totalConfirm": "1418",
+            "totalNowConfirm": "33",
+            "totalHeal": "1384",
+            "totalDead": "1",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "四川",
+            "totalConfirm": "1181",
+            "totalNowConfirm": "32",
+            "totalHeal": "1146",
+            "totalDead": "3",
+            "todayConfirm": "1"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "北京",
+            "totalConfirm": "1110",
+            "totalNowConfirm": "23",
+            "totalHeal": "1078",
+            "totalDead": "9",
+            "todayConfirm": "2"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "广西",
+            "totalConfirm": "289",
+            "totalNowConfirm": "14",
+            "totalHeal": "273",
+            "totalDead": "2",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "辽宁",
+            "totalConfirm": "443",
+            "totalNowConfirm": "11",
+            "totalHeal": "430",
+            "totalDead": "2",
+            "todayConfirm": "2"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "陕西",
+            "totalConfirm": "668",
+            "totalNowConfirm": "11",
+            "totalHeal": "654",
+            "totalDead": "3",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "澳门",
+            "totalConfirm": "63",
+            "totalNowConfirm": "4",
+            "totalHeal": "59",
+            "totalDead": "0",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "重庆",
+            "totalConfirm": "603",
+            "totalNowConfirm": "3",
+            "totalHeal": "594",
+            "totalDead": "6",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "内蒙古",
+            "totalConfirm": "411",
+            "totalNowConfirm": "3",
+            "totalHeal": "407",
+            "totalDead": "1",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "海南",
+            "totalConfirm": "190",
+            "totalNowConfirm": "2",
+            "totalHeal": "182",
+            "totalDead": "6",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "黑龙江",
+            "totalConfirm": "1614",
+            "totalNowConfirm": "2",
+            "totalHeal": "1599",
+            "totalDead": "13",
+            "todayConfirm": "1"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "宁夏",
+            "totalConfirm": "77",
+            "totalNowConfirm": "1",
+            "totalHeal": "76",
+            "totalDead": "0",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "山西",
+            "totalConfirm": "255",
+            "totalNowConfirm": "1",
+            "totalHeal": "254",
+            "totalDead": "0",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "吉林",
+            "totalConfirm": "574",
+            "totalNowConfirm": "1",
+            "totalHeal": "570",
+            "totalDead": "3",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "甘肃",
+            "totalConfirm": "199",
+            "totalNowConfirm": "1",
+            "totalHeal": "196",
+            "totalDead": "2",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "西藏",
+            "totalConfirm": "1",
+            "totalNowConfirm": "0",
+            "totalHeal": "1",
+            "totalDead": "0",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "新疆",
+            "totalConfirm": "980",
+            "totalNowConfirm": "0",
+            "totalHeal": "977",
+            "totalDead": "3",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "河北",
+            "totalConfirm": "1317",
+            "totalNowConfirm": "0",
+            "totalHeal": "1310",
+            "totalDead": "7",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "安徽",
+            "totalConfirm": "1008",
+            "totalNowConfirm": "0",
+            "totalHeal": "1002",
+            "totalDead": "6",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "青海",
+            "totalConfirm": "18",
+            "totalNowConfirm": "0",
+            "totalHeal": "18",
+            "totalDead": "0",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "江西",
+            "totalConfirm": "937",
+            "totalNowConfirm": "0",
+            "totalHeal": "936",
+            "totalDead": "1",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "npName": "贵州",
+            "totalConfirm": "147",
+            "totalNowConfirm": "0",
+            "totalHeal": "145",
+            "totalDead": "2",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "台湾",
+            "totalConfirm": "15906",
+            "totalNowConfirm": "1529",
+            "totalHeal": "13550",
+            "totalDead": "827",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "江苏",
+            "totalConfirm": "1582",
+            "totalNowConfirm": "671",
+            "totalHeal": "911",
+            "totalDead": "0",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "云南",
+            "totalConfirm": "1000",
+            "totalNowConfirm": "331",
+            "totalHeal": "667",
+            "totalDead": "2",
+            "todayConfirm": "3"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "河南",
+            "totalConfirm": "1521",
+            "totalNowConfirm": "175",
+            "totalHeal": "1324",
+            "totalDead": "22",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "湖南",
+            "totalConfirm": "1181",
+            "totalNowConfirm": "102",
+            "totalHeal": "1075",
+            "totalDead": "4",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "上海",
+            "totalConfirm": "2420",
+            "totalNowConfirm": "101",
+            "totalHeal": "2312",
+            "totalDead": "7",
+            "todayConfirm": "4"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "湖北",
+            "totalConfirm": "68287",
+            "totalNowConfirm": "93",
+            "totalHeal": "63682",
+            "totalDead": "4512",
+            "todayConfirm": "1"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "广东",
+            "totalConfirm": "3001",
+            "totalNowConfirm": "82",
+            "totalHeal": "2911",
+            "totalDead": "8",
+            "todayConfirm": "4"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "香港",
+            "totalConfirm": "12049",
+            "totalNowConfirm": "78",
+            "totalHeal": "11759",
+            "totalDead": "212",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "福建",
+            "totalConfirm": "779",
+            "totalNowConfirm": "46",
+            "totalHeal": "732",
+            "totalDead": "1",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "天津",
+            "totalConfirm": "457",
+            "totalNowConfirm": "40",
+            "totalHeal": "414",
+            "totalDead": "3",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "山东",
+            "totalConfirm": "923",
+            "totalNowConfirm": "39",
+            "totalHeal": "877",
+            "totalDead": "7",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "浙江",
+            "totalConfirm": "1418",
+            "totalNowConfirm": "33",
+            "totalHeal": "1384",
+            "totalDead": "1",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "四川",
+            "totalConfirm": "1181",
+            "totalNowConfirm": "32",
+            "totalHeal": "1146",
+            "totalDead": "3",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "北京",
+            "totalConfirm": "1112",
+            "totalNowConfirm": "25",
+            "totalHeal": "1078",
+            "totalDead": "9",
+            "todayConfirm": "2"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "广西",
+            "totalConfirm": "289",
+            "totalNowConfirm": "14",
+            "totalHeal": "273",
+            "totalDead": "2",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "辽宁",
+            "totalConfirm": "443",
+            "totalNowConfirm": "11",
+            "totalHeal": "430",
+            "totalDead": "2",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "陕西",
+            "totalConfirm": "668",
+            "totalNowConfirm": "11",
+            "totalHeal": "654",
+            "totalDead": "3",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "澳门",
+            "totalConfirm": "63",
+            "totalNowConfirm": "4",
+            "totalHeal": "59",
+            "totalDead": "0",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "重庆",
+            "totalConfirm": "603",
+            "totalNowConfirm": "3",
+            "totalHeal": "594",
+            "totalDead": "6",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "内蒙古",
+            "totalConfirm": "411",
+            "totalNowConfirm": "3",
+            "totalHeal": "407",
+            "totalDead": "1",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "黑龙江",
+            "totalConfirm": "1614",
+            "totalNowConfirm": "2",
+            "totalHeal": "1599",
+            "totalDead": "13",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "海南",
+            "totalConfirm": "190",
+            "totalNowConfirm": "2",
+            "totalHeal": "182",
+            "totalDead": "6",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "甘肃",
+            "totalConfirm": "199",
+            "totalNowConfirm": "1",
+            "totalHeal": "196",
+            "totalDead": "2",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "山西",
+            "totalConfirm": "255",
+            "totalNowConfirm": "1",
+            "totalHeal": "254",
+            "totalDead": "0",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "宁夏",
+            "totalConfirm": "77",
+            "totalNowConfirm": "1",
+            "totalHeal": "76",
+            "totalDead": "0",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "吉林",
+            "totalConfirm": "574",
+            "totalNowConfirm": "1",
+            "totalHeal": "570",
+            "totalDead": "3",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "河北",
+            "totalConfirm": "1317",
+            "totalNowConfirm": "0",
+            "totalHeal": "1310",
+            "totalDead": "7",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "贵州",
+            "totalConfirm": "147",
+            "totalNowConfirm": "0",
+            "totalHeal": "145",
+            "totalDead": "2",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "新疆",
+            "totalConfirm": "980",
+            "totalNowConfirm": "0",
+            "totalHeal": "977",
+            "totalDead": "3",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "安徽",
+            "totalConfirm": "1008",
+            "totalNowConfirm": "0",
+            "totalHeal": "1002",
+            "totalDead": "6",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "江西",
+            "totalConfirm": "937",
+            "totalNowConfirm": "0",
+            "totalHeal": "936",
+            "totalDead": "1",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "西藏",
+            "totalConfirm": "1",
+            "totalNowConfirm": "0",
+            "totalHeal": "1",
+            "totalDead": "0",
+            "todayConfirm": "0"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "npName": "青海",
+            "totalConfirm": "18",
+            "totalNowConfirm": "0",
+            "totalHeal": "18",
+            "totalDead": "0",
+            "todayConfirm": "0"
+        }
+    ]
+}

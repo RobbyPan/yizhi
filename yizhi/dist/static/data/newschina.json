@@ -1,0 +1,38 @@
+{
+    "RECORDS": [
+        {
+            "lastUpdateTime": "2021-08-20 14:34:16",
+            "totalConfirm": "122595",
+            "totalNowConfirm": "3429",
+            "totalSuspect": "4",
+            "totalNoInfect": "517",
+            "totalImportedCase": "8040",
+            "totalHeal": "113491",
+            "totalDead": "5675",
+            "addConfirm": "53",
+            "addNowConfirm": "-372",
+            "addSuspect": "2",
+            "addNoInfect": "30",
+            "addImportedCase": "29",
+            "addHeal": "419",
+            "addDead": "6"
+        },
+        {
+            "lastUpdateTime": "2021-08-21 08:21:16",
+            "totalConfirm": "122599",
+            "totalNowConfirm": "3433",
+            "totalSuspect": "4",
+            "totalNoInfect": "517",
+            "totalImportedCase": "8040",
+            "totalHeal": "113491",
+            "totalDead": "5675",
+            "addConfirm": "13",
+            "addNowConfirm": "10",
+            "addSuspect": "0",
+            "addNoInfect": "30",
+            "addImportedCase": "0",
+            "addHeal": "2",
+            "addDead": "1"
+        }
+    ]
+}
